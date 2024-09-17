@@ -1,0 +1,2 @@
+# Clinic
+Clicnic sln files
